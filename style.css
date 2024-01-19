@@ -118,7 +118,7 @@ input{
     outline: none;
     border: 1px solid #E5E7EB;
     border-radius: 5px;
-    width: max(80%, 15ch);
+    width: 35ch;
 }
 
 input:focus {
